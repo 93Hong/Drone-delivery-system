@@ -1,0 +1,12 @@
+{
+	"orders" : [
+		{
+			"orderNo" : 1234,
+			"address" : "1번지역"
+		},
+		{
+			"orderNo" : 1235,
+			"address" : "4번지역"
+		}
+	]
+}
